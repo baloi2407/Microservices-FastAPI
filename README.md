@@ -16,7 +16,7 @@ project/
     ├── main.py
     └── consumer.py
 
-Dựa trên mã nguồn bạn cung cấp, tôi sẽ tạo một báo cáo về dự án microservices của bạn, bao gồm cả phân tích luồng hoạt động, ưu nhược điểm và hướng phát triển.
+
 
 # Báo cáo Dự án Microservices
 
